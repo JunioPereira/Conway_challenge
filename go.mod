@@ -1,3 +1,3 @@
-module github.com/hackersandslackers/golang-helloworld
+module github.com/JunioPereira/Conway_challenge
 
 go 1.19
